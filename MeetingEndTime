@@ -1,0 +1,17 @@
+{
+"locale": "en"
+"setTime": "now"
+"format_type":{
+"type": "format"
+"addTime": "67"
+"subtractTime": "0"
+"preFormat": "iso-8601"
+"format": "MM-DD-YYYY HH:mm:ss"
+}
+}
+
+
+#output
+{
+"moment": "2019-02-01T14:57:22+00:00"
+}
