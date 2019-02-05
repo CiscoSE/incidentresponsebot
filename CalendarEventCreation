@@ -1,0 +1,40 @@
+{
+"calendar_id": "AQMkADM4MzA1MDVhLTVlM2ItNDUyMy04OWYwLWRhNzEzYzY5ZDY3NgBGAAADPg5QxGb-tUavE5CDYfWFQAcAPB9EXLVTdkyZcpZX_HZtWAAAAgEGAAAAPB9EXLVTdkyZcpZX_HZtWAAAAiCrAAAA"
+"subject": "Sev 1 Video Call"
+"start_dateTime": "2019-01-25T22:12:58+00:00"
+"end_dateTime": "2019-02-01T14:57:22+00:00"
+"timeZone": "America/New_York"
+"body":{
+"contentType": "Text"
+"content": ""
+}
+"location":{
+"displayName": "@webex"
+"address":{
+"street": ""
+"city": ""
+"state": ""
+"postalCode": ""
+"countryOrRegion": ""
+}
+}
+"attendees":[
+0:{
+"email": "josalter@cisco.com"
+"name": "John Salter"
+"type": "Required"
+}
+1:{
+"email": "listephe@cisco.com"
+"name": "Lindsay Stephenson"
+"type": "Required"
+}
+2:{
+"email": "deltaemergencyvideo@webexavengers.com"
+"name": "Delta Emergency Video"
+"type": "Required"
+}
+]
+"additional_params":[]
+"auth": "{{$config.auth.fl0a7db0bc750ae1d13cc805.access_token}}"
+}
